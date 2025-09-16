@@ -1,5 +1,3 @@
-# capstone-project-ecommerce-data-classification-summarization
-
 # 🛍️ Capstone Project: Data Classification & Summarization Using IBM Granite
 
 ## 📌 Project Overview
